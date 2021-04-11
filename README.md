@@ -5,8 +5,8 @@ ____
 |-- |--|
 | read1 | [Assignment 1](01.md)   |
 | read2 | [Assignment 2] (02.md) |
-| read3 | [Assignment 3  ] (03.md)  |
-| read4 | [Assignment 4  ](04.md)  |
+| read3 | [Assignment 3] (03.md)  |
+| read4 | [Assignment 4] (04.md)  |
 | read5 | [Assignment 5   ](05.md)  |
 | read6 | [Assignment 6    ](06.md) |
 | read7 | [Assignment 7    ](07.md) |
